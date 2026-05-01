@@ -1,0 +1,3073 @@
+{
+  "meta": {
+    "company": "FinSight Capital",
+    "generated": "2026-05-01T11:30:18.011400",
+    "data_range": "Jan 2022 \u2013 Dec 2024",
+    "currency": "INR Crores"
+  },
+  "summaries": {
+    "kpi_cards": {
+      "aum_latest_crores": 645.69,
+      "gnpa_latest_pct": 4.41,
+      "nnpa_latest_pct": 2.35,
+      "collection_eff_avg_pct": 87.22,
+      "nim_annualised_pct": 8.9,
+      "cti_latest_pct": 43.01,
+      "par30_latest_pct": 35.93,
+      "par60_latest_pct": 22.44,
+      "par90_latest_pct": 15.56,
+      "yoy_disbursement_pct": 18.09,
+      "pcr_latest_pct": 69.05
+    },
+    "col_by_product_2024": {
+      "Vehicle": 89.38,
+      "Personal": 89.02,
+      "Home": 88.23,
+      "Business": 88.51
+    },
+    "col_by_geo_2024": {
+      "Metro": 89.56,
+      "Rural": 89.16,
+      "Tier1": 89.04,
+      "Tier2": 87.38
+    },
+    "par_buckets_latest": {
+      "dpd_0_cr": 413.69,
+      "dpd_30_cr": 87.12,
+      "dpd_60_cr": 44.41,
+      "dpd_90_cr": 64.28,
+      "dpd_180_cr": 21.33,
+      "dpd_360_cr": 14.87
+    },
+    "top5_geo_npa": [
+      {
+        "geography": "Metro",
+        "npa_outstanding_crores": 985.67,
+        "npa_loan_count": 459,
+        "npa_contribution_pct": 35.06,
+        "npa_rank": 1
+      },
+      {
+        "geography": "Tier1",
+        "npa_outstanding_crores": 836.03,
+        "npa_loan_count": 384,
+        "npa_contribution_pct": 29.74,
+        "npa_rank": 2
+      },
+      {
+        "geography": "Tier2",
+        "npa_outstanding_crores": 667.78,
+        "npa_loan_count": 314,
+        "npa_contribution_pct": 23.76,
+        "npa_rank": 3
+      },
+      {
+        "geography": "Rural",
+        "npa_outstanding_crores": 321.61,
+        "npa_loan_count": 152,
+        "npa_contribution_pct": 11.44,
+        "npa_rank": 4
+      }
+    ]
+  },
+  "timeseries": {
+    "aum_trend": [
+      {
+        "year": 2022,
+        "month": 1,
+        "aum_crores": 451.36,
+        "period": "2022-01"
+      },
+      {
+        "year": 2022,
+        "month": 2,
+        "aum_crores": 453.44,
+        "period": "2022-02"
+      },
+      {
+        "year": 2022,
+        "month": 3,
+        "aum_crores": 483.99,
+        "period": "2022-03"
+      },
+      {
+        "year": 2022,
+        "month": 4,
+        "aum_crores": 453.88,
+        "period": "2022-04"
+      },
+      {
+        "year": 2022,
+        "month": 5,
+        "aum_crores": 453.05,
+        "period": "2022-05"
+      },
+      {
+        "year": 2022,
+        "month": 6,
+        "aum_crores": 421.82,
+        "period": "2022-06"
+      },
+      {
+        "year": 2022,
+        "month": 7,
+        "aum_crores": 431.61,
+        "period": "2022-07"
+      },
+      {
+        "year": 2022,
+        "month": 8,
+        "aum_crores": 370.76,
+        "period": "2022-08"
+      },
+      {
+        "year": 2022,
+        "month": 9,
+        "aum_crores": 397.59,
+        "period": "2022-09"
+      },
+      {
+        "year": 2022,
+        "month": 10,
+        "aum_crores": 422.29,
+        "period": "2022-10"
+      },
+      {
+        "year": 2022,
+        "month": 11,
+        "aum_crores": 434.33,
+        "period": "2022-11"
+      },
+      {
+        "year": 2022,
+        "month": 12,
+        "aum_crores": 434.02,
+        "period": "2022-12"
+      },
+      {
+        "year": 2023,
+        "month": 1,
+        "aum_crores": 526.24,
+        "period": "2023-01"
+      },
+      {
+        "year": 2023,
+        "month": 2,
+        "aum_crores": 511.49,
+        "period": "2023-02"
+      },
+      {
+        "year": 2023,
+        "month": 3,
+        "aum_crores": 524.65,
+        "period": "2023-03"
+      },
+      {
+        "year": 2023,
+        "month": 4,
+        "aum_crores": 562.89,
+        "period": "2023-04"
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "aum_crores": 509.48,
+        "period": "2023-05"
+      },
+      {
+        "year": 2023,
+        "month": 6,
+        "aum_crores": 478.25,
+        "period": "2023-06"
+      },
+      {
+        "year": 2023,
+        "month": 7,
+        "aum_crores": 489.03,
+        "period": "2023-07"
+      },
+      {
+        "year": 2023,
+        "month": 8,
+        "aum_crores": 422.74,
+        "period": "2023-08"
+      },
+      {
+        "year": 2023,
+        "month": 9,
+        "aum_crores": 465.1,
+        "period": "2023-09"
+      },
+      {
+        "year": 2023,
+        "month": 10,
+        "aum_crores": 457.67,
+        "period": "2023-10"
+      },
+      {
+        "year": 2023,
+        "month": 11,
+        "aum_crores": 484.53,
+        "period": "2023-11"
+      },
+      {
+        "year": 2023,
+        "month": 12,
+        "aum_crores": 536.37,
+        "period": "2023-12"
+      },
+      {
+        "year": 2024,
+        "month": 1,
+        "aum_crores": 618.01,
+        "period": "2024-01"
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "aum_crores": 642.83,
+        "period": "2024-02"
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "aum_crores": 641.91,
+        "period": "2024-03"
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "aum_crores": 668.61,
+        "period": "2024-04"
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "aum_crores": 626.6,
+        "period": "2024-05"
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "aum_crores": 581.86,
+        "period": "2024-06"
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "aum_crores": 595.29,
+        "period": "2024-07"
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "aum_crores": 546.85,
+        "period": "2024-08"
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "aum_crores": 543.54,
+        "period": "2024-09"
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "aum_crores": 586.34,
+        "period": "2024-10"
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "aum_crores": 567.66,
+        "period": "2024-11"
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "aum_crores": 645.69,
+        "period": "2024-12"
+      }
+    ],
+    "npa_trend": [
+      {
+        "year": 2022,
+        "month": 1,
+        "period": "2022-01",
+        "gnpa_pct": 3.14,
+        "nnpa_pct": 1.66,
+        "pcr_pct": 62.44,
+        "portfolio_gnpa_pct": 10.24
+      },
+      {
+        "year": 2022,
+        "month": 2,
+        "period": "2022-02",
+        "gnpa_pct": 3.27,
+        "nnpa_pct": 1.61,
+        "pcr_pct": 63.06,
+        "portfolio_gnpa_pct": 10.21
+      },
+      {
+        "year": 2022,
+        "month": 3,
+        "period": "2022-03",
+        "gnpa_pct": 3.47,
+        "nnpa_pct": 1.77,
+        "pcr_pct": 64.19,
+        "portfolio_gnpa_pct": 13.35
+      },
+      {
+        "year": 2022,
+        "month": 4,
+        "period": "2022-04",
+        "gnpa_pct": 3.45,
+        "nnpa_pct": 1.71,
+        "pcr_pct": 67.36,
+        "portfolio_gnpa_pct": 11.8
+      },
+      {
+        "year": 2022,
+        "month": 5,
+        "period": "2022-05",
+        "gnpa_pct": 3.64,
+        "nnpa_pct": 1.8,
+        "pcr_pct": 67.96,
+        "portfolio_gnpa_pct": 11.3
+      },
+      {
+        "year": 2022,
+        "month": 6,
+        "period": "2022-06",
+        "gnpa_pct": 3.94,
+        "nnpa_pct": 2.16,
+        "pcr_pct": 69.48,
+        "portfolio_gnpa_pct": 13.21
+      },
+      {
+        "year": 2022,
+        "month": 7,
+        "period": "2022-07",
+        "gnpa_pct": 3.88,
+        "nnpa_pct": 2.1,
+        "pcr_pct": 58.91,
+        "portfolio_gnpa_pct": 14.97
+      },
+      {
+        "year": 2022,
+        "month": 8,
+        "period": "2022-08",
+        "gnpa_pct": 4.1,
+        "nnpa_pct": 2.22,
+        "pcr_pct": 64.53,
+        "portfolio_gnpa_pct": 16.98
+      },
+      {
+        "year": 2022,
+        "month": 9,
+        "period": "2022-09",
+        "gnpa_pct": 4.14,
+        "nnpa_pct": 2.18,
+        "pcr_pct": 58.3,
+        "portfolio_gnpa_pct": 10.83
+      },
+      {
+        "year": 2022,
+        "month": 10,
+        "period": "2022-10",
+        "gnpa_pct": 4.36,
+        "nnpa_pct": 2.3,
+        "pcr_pct": 67.67,
+        "portfolio_gnpa_pct": 17.27
+      },
+      {
+        "year": 2022,
+        "month": 11,
+        "period": "2022-11",
+        "gnpa_pct": 4.41,
+        "nnpa_pct": 2.36,
+        "pcr_pct": 58.74,
+        "portfolio_gnpa_pct": 13.16
+      },
+      {
+        "year": 2022,
+        "month": 12,
+        "period": "2022-12",
+        "gnpa_pct": 4.52,
+        "nnpa_pct": 2.44,
+        "pcr_pct": 62.34,
+        "portfolio_gnpa_pct": 10.82
+      },
+      {
+        "year": 2023,
+        "month": 1,
+        "period": "2023-01",
+        "gnpa_pct": 4.83,
+        "nnpa_pct": 2.4,
+        "pcr_pct": 68.21,
+        "portfolio_gnpa_pct": 19.71
+      },
+      {
+        "year": 2023,
+        "month": 2,
+        "period": "2023-02",
+        "gnpa_pct": 4.9,
+        "nnpa_pct": 2.38,
+        "pcr_pct": 58.48,
+        "portfolio_gnpa_pct": 20.14
+      },
+      {
+        "year": 2023,
+        "month": 3,
+        "period": "2023-03",
+        "gnpa_pct": 5.14,
+        "nnpa_pct": 2.77,
+        "pcr_pct": 69.14,
+        "portfolio_gnpa_pct": 16.58
+      },
+      {
+        "year": 2023,
+        "month": 4,
+        "period": "2023-04",
+        "gnpa_pct": 5.31,
+        "nnpa_pct": 2.64,
+        "pcr_pct": 63.63,
+        "portfolio_gnpa_pct": 20.66
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "period": "2023-05",
+        "gnpa_pct": 5.48,
+        "nnpa_pct": 3.0,
+        "pcr_pct": 60.87,
+        "portfolio_gnpa_pct": 23.47
+      },
+      {
+        "year": 2023,
+        "month": 6,
+        "period": "2023-06",
+        "gnpa_pct": 5.66,
+        "nnpa_pct": 2.8,
+        "pcr_pct": 64.69,
+        "portfolio_gnpa_pct": 17.21
+      },
+      {
+        "year": 2023,
+        "month": 7,
+        "period": "2023-07",
+        "gnpa_pct": 5.73,
+        "nnpa_pct": 2.81,
+        "pcr_pct": 63.41,
+        "portfolio_gnpa_pct": 18.61
+      },
+      {
+        "year": 2023,
+        "month": 8,
+        "period": "2023-08",
+        "gnpa_pct": 6.02,
+        "nnpa_pct": 3.09,
+        "pcr_pct": 68.74,
+        "portfolio_gnpa_pct": 16.2
+      },
+      {
+        "year": 2023,
+        "month": 9,
+        "period": "2023-09",
+        "gnpa_pct": 5.98,
+        "nnpa_pct": 2.9,
+        "pcr_pct": 58.69,
+        "portfolio_gnpa_pct": 20.25
+      },
+      {
+        "year": 2023,
+        "month": 10,
+        "period": "2023-10",
+        "gnpa_pct": 6.11,
+        "nnpa_pct": 3.23,
+        "pcr_pct": 64.67,
+        "portfolio_gnpa_pct": 15.7
+      },
+      {
+        "year": 2023,
+        "month": 11,
+        "period": "2023-11",
+        "gnpa_pct": 6.08,
+        "nnpa_pct": 2.98,
+        "pcr_pct": 60.46,
+        "portfolio_gnpa_pct": 17.85
+      },
+      {
+        "year": 2023,
+        "month": 12,
+        "period": "2023-12",
+        "gnpa_pct": 6.06,
+        "nnpa_pct": 3.01,
+        "pcr_pct": 65.46,
+        "portfolio_gnpa_pct": 21.8
+      },
+      {
+        "year": 2024,
+        "month": 1,
+        "period": "2024-01",
+        "gnpa_pct": 5.88,
+        "nnpa_pct": 2.89,
+        "pcr_pct": 68.44,
+        "portfolio_gnpa_pct": 13.7
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "period": "2024-02",
+        "gnpa_pct": 5.6,
+        "nnpa_pct": 2.96,
+        "pcr_pct": 67.85,
+        "portfolio_gnpa_pct": 14.42
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "period": "2024-03",
+        "gnpa_pct": 5.62,
+        "nnpa_pct": 2.81,
+        "pcr_pct": 61.14,
+        "portfolio_gnpa_pct": 11.41
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "period": "2024-04",
+        "gnpa_pct": 5.5,
+        "nnpa_pct": 2.98,
+        "pcr_pct": 60.55,
+        "portfolio_gnpa_pct": 15.93
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "period": "2024-05",
+        "gnpa_pct": 5.24,
+        "nnpa_pct": 2.78,
+        "pcr_pct": 66.75,
+        "portfolio_gnpa_pct": 15.63
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "period": "2024-06",
+        "gnpa_pct": 5.24,
+        "nnpa_pct": 2.77,
+        "pcr_pct": 62.16,
+        "portfolio_gnpa_pct": 11.38
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "period": "2024-07",
+        "gnpa_pct": 5.09,
+        "nnpa_pct": 2.55,
+        "pcr_pct": 65.61,
+        "portfolio_gnpa_pct": 12.37
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "period": "2024-08",
+        "gnpa_pct": 4.87,
+        "nnpa_pct": 2.6,
+        "pcr_pct": 69.39,
+        "portfolio_gnpa_pct": 13.43
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "period": "2024-09",
+        "gnpa_pct": 4.64,
+        "nnpa_pct": 2.34,
+        "pcr_pct": 63.94,
+        "portfolio_gnpa_pct": 12.61
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "period": "2024-10",
+        "gnpa_pct": 4.76,
+        "nnpa_pct": 2.45,
+        "pcr_pct": 63.96,
+        "portfolio_gnpa_pct": 14.5
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "period": "2024-11",
+        "gnpa_pct": 4.5,
+        "nnpa_pct": 2.36,
+        "pcr_pct": 59.51,
+        "portfolio_gnpa_pct": 14.59
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "period": "2024-12",
+        "gnpa_pct": 4.41,
+        "nnpa_pct": 2.35,
+        "pcr_pct": 69.05,
+        "portfolio_gnpa_pct": 15.54
+      }
+    ],
+    "collection_efficiency": [
+      {
+        "year": 2022,
+        "product_type": "Home",
+        "geography": "Rural",
+        "loan_count": 72,
+        "total_due": 773.51,
+        "total_collected": 703.95,
+        "collection_efficiency_pct": 91.01
+      },
+      {
+        "year": 2022,
+        "product_type": "Vehicle",
+        "geography": "Tier1",
+        "loan_count": 208,
+        "total_due": 783.26,
+        "total_collected": 706.29,
+        "collection_efficiency_pct": 90.17
+      },
+      {
+        "year": 2022,
+        "product_type": "Personal",
+        "geography": "Tier1",
+        "loan_count": 179,
+        "total_due": 948.48,
+        "total_collected": 854.23,
+        "collection_efficiency_pct": 90.06
+      },
+      {
+        "year": 2022,
+        "product_type": "Business",
+        "geography": "Metro",
+        "loan_count": 256,
+        "total_due": 1818.22,
+        "total_collected": 1630.86,
+        "collection_efficiency_pct": 89.7
+      },
+      {
+        "year": 2022,
+        "product_type": "Personal",
+        "geography": "Rural",
+        "loan_count": 82,
+        "total_due": 437.1,
+        "total_collected": 391.66,
+        "collection_efficiency_pct": 89.6
+      },
+      {
+        "year": 2022,
+        "product_type": "Home",
+        "geography": "Tier1",
+        "loan_count": 199,
+        "total_due": 1977.82,
+        "total_collected": 1766.42,
+        "collection_efficiency_pct": 89.31
+      },
+      {
+        "year": 2022,
+        "product_type": "Business",
+        "geography": "Tier1",
+        "loan_count": 210,
+        "total_due": 1464.09,
+        "total_collected": 1306.93,
+        "collection_efficiency_pct": 89.27
+      },
+      {
+        "year": 2022,
+        "product_type": "Vehicle",
+        "geography": "Metro",
+        "loan_count": 235,
+        "total_due": 851.72,
+        "total_collected": 758.17,
+        "collection_efficiency_pct": 89.02
+      },
+      {
+        "year": 2022,
+        "product_type": "Business",
+        "geography": "Rural",
+        "loan_count": 105,
+        "total_due": 724.07,
+        "total_collected": 643.72,
+        "collection_efficiency_pct": 88.9
+      },
+      {
+        "year": 2022,
+        "product_type": "Vehicle",
+        "geography": "Tier2",
+        "loan_count": 140,
+        "total_due": 523.01,
+        "total_collected": 464.15,
+        "collection_efficiency_pct": 88.75
+      },
+      {
+        "year": 2022,
+        "product_type": "Business",
+        "geography": "Tier2",
+        "loan_count": 148,
+        "total_due": 1002.39,
+        "total_collected": 888.99,
+        "collection_efficiency_pct": 88.69
+      },
+      {
+        "year": 2022,
+        "product_type": "Personal",
+        "geography": "Metro",
+        "loan_count": 239,
+        "total_due": 1245.64,
+        "total_collected": 1103.9,
+        "collection_efficiency_pct": 88.62
+      },
+      {
+        "year": 2022,
+        "product_type": "Home",
+        "geography": "Tier2",
+        "loan_count": 154,
+        "total_due": 1610.14,
+        "total_collected": 1426.39,
+        "collection_efficiency_pct": 88.59
+      },
+      {
+        "year": 2022,
+        "product_type": "Vehicle",
+        "geography": "Rural",
+        "loan_count": 96,
+        "total_due": 343.05,
+        "total_collected": 303.15,
+        "collection_efficiency_pct": 88.37
+      },
+      {
+        "year": 2022,
+        "product_type": "Personal",
+        "geography": "Tier2",
+        "loan_count": 155,
+        "total_due": 769.68,
+        "total_collected": 673.03,
+        "collection_efficiency_pct": 87.44
+      },
+      {
+        "year": 2022,
+        "product_type": "Home",
+        "geography": "Metro",
+        "loan_count": 220,
+        "total_due": 2177.53,
+        "total_collected": 1887.77,
+        "collection_efficiency_pct": 86.69
+      },
+      {
+        "year": 2023,
+        "product_type": "Business",
+        "geography": "Metro",
+        "loan_count": 269,
+        "total_due": 1867.39,
+        "total_collected": 1591.95,
+        "collection_efficiency_pct": 85.25
+      },
+      {
+        "year": 2023,
+        "product_type": "Home",
+        "geography": "Tier2",
+        "loan_count": 167,
+        "total_due": 1529.26,
+        "total_collected": 1300.45,
+        "collection_efficiency_pct": 85.04
+      },
+      {
+        "year": 2023,
+        "product_type": "Vehicle",
+        "geography": "Rural",
+        "loan_count": 94,
+        "total_due": 320.58,
+        "total_collected": 272.21,
+        "collection_efficiency_pct": 84.91
+      },
+      {
+        "year": 2023,
+        "product_type": "Personal",
+        "geography": "Tier1",
+        "loan_count": 243,
+        "total_due": 1267.14,
+        "total_collected": 1075.16,
+        "collection_efficiency_pct": 84.85
+      },
+      {
+        "year": 2023,
+        "product_type": "Personal",
+        "geography": "Rural",
+        "loan_count": 102,
+        "total_due": 519.69,
+        "total_collected": 439.81,
+        "collection_efficiency_pct": 84.63
+      },
+      {
+        "year": 2023,
+        "product_type": "Business",
+        "geography": "Rural",
+        "loan_count": 107,
+        "total_due": 777.03,
+        "total_collected": 656.72,
+        "collection_efficiency_pct": 84.52
+      },
+      {
+        "year": 2023,
+        "product_type": "Home",
+        "geography": "Rural",
+        "loan_count": 97,
+        "total_due": 1002.22,
+        "total_collected": 846.32,
+        "collection_efficiency_pct": 84.44
+      },
+      {
+        "year": 2023,
+        "product_type": "Business",
+        "geography": "Tier2",
+        "loan_count": 164,
+        "total_due": 1231.24,
+        "total_collected": 1039.21,
+        "collection_efficiency_pct": 84.4
+      },
+      {
+        "year": 2023,
+        "product_type": "Personal",
+        "geography": "Tier2",
+        "loan_count": 182,
+        "total_due": 900.67,
+        "total_collected": 755.16,
+        "collection_efficiency_pct": 83.84
+      },
+      {
+        "year": 2023,
+        "product_type": "Vehicle",
+        "geography": "Tier2",
+        "loan_count": 182,
+        "total_due": 664.75,
+        "total_collected": 556.93,
+        "collection_efficiency_pct": 83.78
+      },
+      {
+        "year": 2023,
+        "product_type": "Personal",
+        "geography": "Metro",
+        "loan_count": 249,
+        "total_due": 1303.78,
+        "total_collected": 1086.96,
+        "collection_efficiency_pct": 83.37
+      },
+      {
+        "year": 2023,
+        "product_type": "Business",
+        "geography": "Tier1",
+        "loan_count": 251,
+        "total_due": 1799.1,
+        "total_collected": 1497.9,
+        "collection_efficiency_pct": 83.26
+      },
+      {
+        "year": 2023,
+        "product_type": "Vehicle",
+        "geography": "Tier1",
+        "loan_count": 243,
+        "total_due": 831.5,
+        "total_collected": 686.22,
+        "collection_efficiency_pct": 82.53
+      },
+      {
+        "year": 2023,
+        "product_type": "Home",
+        "geography": "Metro",
+        "loan_count": 287,
+        "total_due": 2763.91,
+        "total_collected": 2279.76,
+        "collection_efficiency_pct": 82.48
+      },
+      {
+        "year": 2023,
+        "product_type": "Vehicle",
+        "geography": "Metro",
+        "loan_count": 284,
+        "total_due": 1030.18,
+        "total_collected": 848.89,
+        "collection_efficiency_pct": 82.4
+      },
+      {
+        "year": 2023,
+        "product_type": "Home",
+        "geography": "Tier1",
+        "loan_count": 220,
+        "total_due": 2190.78,
+        "total_collected": 1802.07,
+        "collection_efficiency_pct": 82.26
+      },
+      {
+        "year": 2024,
+        "product_type": "Vehicle",
+        "geography": "Metro",
+        "loan_count": 328,
+        "total_due": 1205.16,
+        "total_collected": 1095.7,
+        "collection_efficiency_pct": 90.92
+      },
+      {
+        "year": 2024,
+        "product_type": "Personal",
+        "geography": "Rural",
+        "loan_count": 117,
+        "total_due": 663.28,
+        "total_collected": 599.46,
+        "collection_efficiency_pct": 90.38
+      },
+      {
+        "year": 2024,
+        "product_type": "Personal",
+        "geography": "Tier1",
+        "loan_count": 259,
+        "total_due": 1324.01,
+        "total_collected": 1191.02,
+        "collection_efficiency_pct": 89.96
+      },
+      {
+        "year": 2024,
+        "product_type": "Vehicle",
+        "geography": "Rural",
+        "loan_count": 117,
+        "total_due": 439.64,
+        "total_collected": 395.21,
+        "collection_efficiency_pct": 89.89
+      },
+      {
+        "year": 2024,
+        "product_type": "Home",
+        "geography": "Metro",
+        "loan_count": 337,
+        "total_due": 3189.32,
+        "total_collected": 2854.89,
+        "collection_efficiency_pct": 89.51
+      },
+      {
+        "year": 2024,
+        "product_type": "Vehicle",
+        "geography": "Tier1",
+        "loan_count": 266,
+        "total_due": 1021.98,
+        "total_collected": 914.13,
+        "collection_efficiency_pct": 89.45
+      },
+      {
+        "year": 2024,
+        "product_type": "Business",
+        "geography": "Metro",
+        "loan_count": 334,
+        "total_due": 2461.54,
+        "total_collected": 2197.06,
+        "collection_efficiency_pct": 89.26
+      },
+      {
+        "year": 2024,
+        "product_type": "Business",
+        "geography": "Tier1",
+        "loan_count": 279,
+        "total_due": 2013.93,
+        "total_collected": 1796.86,
+        "collection_efficiency_pct": 89.22
+      },
+      {
+        "year": 2024,
+        "product_type": "Personal",
+        "geography": "Metro",
+        "loan_count": 342,
+        "total_due": 1807.83,
+        "total_collected": 1601.13,
+        "collection_efficiency_pct": 88.57
+      },
+      {
+        "year": 2024,
+        "product_type": "Home",
+        "geography": "Rural",
+        "loan_count": 123,
+        "total_due": 1115.13,
+        "total_collected": 983.68,
+        "collection_efficiency_pct": 88.21
+      },
+      {
+        "year": 2024,
+        "product_type": "Business",
+        "geography": "Rural",
+        "loan_count": 123,
+        "total_due": 884.13,
+        "total_collected": 779.42,
+        "collection_efficiency_pct": 88.16
+      },
+      {
+        "year": 2024,
+        "product_type": "Home",
+        "geography": "Tier2",
+        "loan_count": 223,
+        "total_due": 2087.22,
+        "total_collected": 1830.08,
+        "collection_efficiency_pct": 87.68
+      },
+      {
+        "year": 2024,
+        "product_type": "Home",
+        "geography": "Tier1",
+        "loan_count": 288,
+        "total_due": 2748.3,
+        "total_collected": 2405.66,
+        "collection_efficiency_pct": 87.53
+      },
+      {
+        "year": 2024,
+        "product_type": "Business",
+        "geography": "Tier2",
+        "loan_count": 227,
+        "total_due": 1642.34,
+        "total_collected": 1435.45,
+        "collection_efficiency_pct": 87.4
+      },
+      {
+        "year": 2024,
+        "product_type": "Vehicle",
+        "geography": "Tier2",
+        "loan_count": 192,
+        "total_due": 705.38,
+        "total_collected": 615.6,
+        "collection_efficiency_pct": 87.27
+      },
+      {
+        "year": 2024,
+        "product_type": "Personal",
+        "geography": "Tier2",
+        "loan_count": 200,
+        "total_due": 1035.99,
+        "total_collected": 903.02,
+        "collection_efficiency_pct": 87.16
+      }
+    ],
+    "nim": [
+      {
+        "year": 2022,
+        "month": 1,
+        "period": "2022-01",
+        "nii_crores": 3.75,
+        "aum_crores": 451.36,
+        "nim_monthly_pct": 0.8308,
+        "nim_annualised_pct": 9.97
+      },
+      {
+        "year": 2022,
+        "month": 2,
+        "period": "2022-02",
+        "nii_crores": 3.54,
+        "aum_crores": 453.44,
+        "nim_monthly_pct": 0.7807,
+        "nim_annualised_pct": 9.37
+      },
+      {
+        "year": 2022,
+        "month": 3,
+        "period": "2022-03",
+        "nii_crores": 3.67,
+        "aum_crores": 483.99,
+        "nim_monthly_pct": 0.7583,
+        "nim_annualised_pct": 9.1
+      },
+      {
+        "year": 2022,
+        "month": 4,
+        "period": "2022-04",
+        "nii_crores": 3.69,
+        "aum_crores": 453.88,
+        "nim_monthly_pct": 0.813,
+        "nim_annualised_pct": 9.76
+      },
+      {
+        "year": 2022,
+        "month": 5,
+        "period": "2022-05",
+        "nii_crores": 3.58,
+        "aum_crores": 453.05,
+        "nim_monthly_pct": 0.7902,
+        "nim_annualised_pct": 9.48
+      },
+      {
+        "year": 2022,
+        "month": 6,
+        "period": "2022-06",
+        "nii_crores": 3.45,
+        "aum_crores": 421.82,
+        "nim_monthly_pct": 0.8179,
+        "nim_annualised_pct": 9.81
+      },
+      {
+        "year": 2022,
+        "month": 7,
+        "period": "2022-07",
+        "nii_crores": 3.34,
+        "aum_crores": 431.61,
+        "nim_monthly_pct": 0.7739,
+        "nim_annualised_pct": 9.29
+      },
+      {
+        "year": 2022,
+        "month": 8,
+        "period": "2022-08",
+        "nii_crores": 3.72,
+        "aum_crores": 370.76,
+        "nim_monthly_pct": 1.0034,
+        "nim_annualised_pct": 12.04
+      },
+      {
+        "year": 2022,
+        "month": 9,
+        "period": "2022-09",
+        "nii_crores": 3.69,
+        "aum_crores": 397.59,
+        "nim_monthly_pct": 0.9281,
+        "nim_annualised_pct": 11.14
+      },
+      {
+        "year": 2022,
+        "month": 10,
+        "period": "2022-10",
+        "nii_crores": 3.77,
+        "aum_crores": 422.29,
+        "nim_monthly_pct": 0.8928,
+        "nim_annualised_pct": 10.71
+      },
+      {
+        "year": 2022,
+        "month": 11,
+        "period": "2022-11",
+        "nii_crores": 3.22,
+        "aum_crores": 434.33,
+        "nim_monthly_pct": 0.7414,
+        "nim_annualised_pct": 8.9
+      },
+      {
+        "year": 2022,
+        "month": 12,
+        "period": "2022-12",
+        "nii_crores": 3.69,
+        "aum_crores": 434.02,
+        "nim_monthly_pct": 0.8502,
+        "nim_annualised_pct": 10.2
+      },
+      {
+        "year": 2023,
+        "month": 1,
+        "period": "2023-01",
+        "nii_crores": 4.26,
+        "aum_crores": 526.24,
+        "nim_monthly_pct": 0.8095,
+        "nim_annualised_pct": 9.71
+      },
+      {
+        "year": 2023,
+        "month": 2,
+        "period": "2023-02",
+        "nii_crores": 4.52,
+        "aum_crores": 511.49,
+        "nim_monthly_pct": 0.8837,
+        "nim_annualised_pct": 10.6
+      },
+      {
+        "year": 2023,
+        "month": 3,
+        "period": "2023-03",
+        "nii_crores": 4.44,
+        "aum_crores": 524.65,
+        "nim_monthly_pct": 0.8463,
+        "nim_annualised_pct": 10.16
+      },
+      {
+        "year": 2023,
+        "month": 4,
+        "period": "2023-04",
+        "nii_crores": 4.03,
+        "aum_crores": 562.89,
+        "nim_monthly_pct": 0.7159,
+        "nim_annualised_pct": 8.59
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "period": "2023-05",
+        "nii_crores": 3.87,
+        "aum_crores": 509.48,
+        "nim_monthly_pct": 0.7596,
+        "nim_annualised_pct": 9.12
+      },
+      {
+        "year": 2023,
+        "month": 6,
+        "period": "2023-06",
+        "nii_crores": 3.97,
+        "aum_crores": 478.25,
+        "nim_monthly_pct": 0.8301,
+        "nim_annualised_pct": 9.96
+      },
+      {
+        "year": 2023,
+        "month": 7,
+        "period": "2023-07",
+        "nii_crores": 4.32,
+        "aum_crores": 489.03,
+        "nim_monthly_pct": 0.8834,
+        "nim_annualised_pct": 10.6
+      },
+      {
+        "year": 2023,
+        "month": 8,
+        "period": "2023-08",
+        "nii_crores": 4.01,
+        "aum_crores": 422.74,
+        "nim_monthly_pct": 0.9486,
+        "nim_annualised_pct": 11.38
+      },
+      {
+        "year": 2023,
+        "month": 9,
+        "period": "2023-09",
+        "nii_crores": 4.32,
+        "aum_crores": 465.1,
+        "nim_monthly_pct": 0.9288,
+        "nim_annualised_pct": 11.15
+      },
+      {
+        "year": 2023,
+        "month": 10,
+        "period": "2023-10",
+        "nii_crores": 4.17,
+        "aum_crores": 457.67,
+        "nim_monthly_pct": 0.9111,
+        "nim_annualised_pct": 10.93
+      },
+      {
+        "year": 2023,
+        "month": 11,
+        "period": "2023-11",
+        "nii_crores": 4.46,
+        "aum_crores": 484.53,
+        "nim_monthly_pct": 0.9205,
+        "nim_annualised_pct": 11.05
+      },
+      {
+        "year": 2023,
+        "month": 12,
+        "period": "2023-12",
+        "nii_crores": 4.35,
+        "aum_crores": 536.37,
+        "nim_monthly_pct": 0.811,
+        "nim_annualised_pct": 9.73
+      },
+      {
+        "year": 2024,
+        "month": 1,
+        "period": "2024-01",
+        "nii_crores": 5.04,
+        "aum_crores": 618.01,
+        "nim_monthly_pct": 0.8155,
+        "nim_annualised_pct": 9.79
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "period": "2024-02",
+        "nii_crores": 5.34,
+        "aum_crores": 642.83,
+        "nim_monthly_pct": 0.8307,
+        "nim_annualised_pct": 9.97
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "period": "2024-03",
+        "nii_crores": 4.76,
+        "aum_crores": 641.91,
+        "nim_monthly_pct": 0.7415,
+        "nim_annualised_pct": 8.9
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "period": "2024-04",
+        "nii_crores": 4.69,
+        "aum_crores": 668.61,
+        "nim_monthly_pct": 0.7015,
+        "nim_annualised_pct": 8.42
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "period": "2024-05",
+        "nii_crores": 4.88,
+        "aum_crores": 626.6,
+        "nim_monthly_pct": 0.7788,
+        "nim_annualised_pct": 9.35
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "period": "2024-06",
+        "nii_crores": 4.78,
+        "aum_crores": 581.86,
+        "nim_monthly_pct": 0.8215,
+        "nim_annualised_pct": 9.86
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "period": "2024-07",
+        "nii_crores": 4.89,
+        "aum_crores": 595.29,
+        "nim_monthly_pct": 0.8214,
+        "nim_annualised_pct": 9.86
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "period": "2024-08",
+        "nii_crores": 4.89,
+        "aum_crores": 546.85,
+        "nim_monthly_pct": 0.8942,
+        "nim_annualised_pct": 10.73
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "period": "2024-09",
+        "nii_crores": 5.24,
+        "aum_crores": 543.54,
+        "nim_monthly_pct": 0.964,
+        "nim_annualised_pct": 11.57
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "period": "2024-10",
+        "nii_crores": 5.09,
+        "aum_crores": 586.34,
+        "nim_monthly_pct": 0.8681,
+        "nim_annualised_pct": 10.42
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "period": "2024-11",
+        "nii_crores": 4.97,
+        "aum_crores": 567.66,
+        "nim_monthly_pct": 0.8755,
+        "nim_annualised_pct": 10.51
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "period": "2024-12",
+        "nii_crores": 4.79,
+        "aum_crores": 645.69,
+        "nim_monthly_pct": 0.7418,
+        "nim_annualised_pct": 8.9
+      }
+    ],
+    "cost_to_income": [
+      {
+        "year": 2022,
+        "month": 1,
+        "period": "2022-01",
+        "nii_crores": 3.75,
+        "opex_crores": 1.72,
+        "provisions_crores": 0.44,
+        "pat_crores": 1.19,
+        "net_margin_pct": 31.73,
+        "cost_to_income_pct": 45.87
+      },
+      {
+        "year": 2022,
+        "month": 2,
+        "period": "2022-02",
+        "nii_crores": 3.54,
+        "opex_crores": 1.37,
+        "provisions_crores": 0.42,
+        "pat_crores": 1.31,
+        "net_margin_pct": 37.01,
+        "cost_to_income_pct": 38.7
+      },
+      {
+        "year": 2022,
+        "month": 3,
+        "period": "2022-03",
+        "nii_crores": 3.67,
+        "opex_crores": 1.51,
+        "provisions_crores": 0.42,
+        "pat_crores": 1.3,
+        "net_margin_pct": 35.42,
+        "cost_to_income_pct": 41.14
+      },
+      {
+        "year": 2022,
+        "month": 4,
+        "period": "2022-04",
+        "nii_crores": 3.69,
+        "opex_crores": 1.46,
+        "provisions_crores": 0.43,
+        "pat_crores": 1.35,
+        "net_margin_pct": 36.59,
+        "cost_to_income_pct": 39.57
+      },
+      {
+        "year": 2022,
+        "month": 5,
+        "period": "2022-05",
+        "nii_crores": 3.58,
+        "opex_crores": 1.37,
+        "provisions_crores": 0.46,
+        "pat_crores": 1.31,
+        "net_margin_pct": 36.59,
+        "cost_to_income_pct": 38.27
+      },
+      {
+        "year": 2022,
+        "month": 6,
+        "period": "2022-06",
+        "nii_crores": 3.45,
+        "opex_crores": 1.32,
+        "provisions_crores": 0.4,
+        "pat_crores": 1.3,
+        "net_margin_pct": 37.68,
+        "cost_to_income_pct": 38.26
+      },
+      {
+        "year": 2022,
+        "month": 7,
+        "period": "2022-07",
+        "nii_crores": 3.34,
+        "opex_crores": 1.36,
+        "provisions_crores": 0.42,
+        "pat_crores": 1.17,
+        "net_margin_pct": 35.03,
+        "cost_to_income_pct": 40.72
+      },
+      {
+        "year": 2022,
+        "month": 8,
+        "period": "2022-08",
+        "nii_crores": 3.72,
+        "opex_crores": 1.59,
+        "provisions_crores": 0.49,
+        "pat_crores": 1.23,
+        "net_margin_pct": 33.06,
+        "cost_to_income_pct": 42.74
+      },
+      {
+        "year": 2022,
+        "month": 9,
+        "period": "2022-09",
+        "nii_crores": 3.69,
+        "opex_crores": 1.69,
+        "provisions_crores": 0.47,
+        "pat_crores": 1.15,
+        "net_margin_pct": 31.17,
+        "cost_to_income_pct": 45.8
+      },
+      {
+        "year": 2022,
+        "month": 10,
+        "period": "2022-10",
+        "nii_crores": 3.77,
+        "opex_crores": 1.58,
+        "provisions_crores": 0.42,
+        "pat_crores": 1.33,
+        "net_margin_pct": 35.28,
+        "cost_to_income_pct": 41.91
+      },
+      {
+        "year": 2022,
+        "month": 11,
+        "period": "2022-11",
+        "nii_crores": 3.22,
+        "opex_crores": 1.38,
+        "provisions_crores": 0.4,
+        "pat_crores": 1.08,
+        "net_margin_pct": 33.54,
+        "cost_to_income_pct": 42.86
+      },
+      {
+        "year": 2022,
+        "month": 12,
+        "period": "2022-12",
+        "nii_crores": 3.69,
+        "opex_crores": 1.51,
+        "provisions_crores": 0.44,
+        "pat_crores": 1.31,
+        "net_margin_pct": 35.5,
+        "cost_to_income_pct": 40.92
+      },
+      {
+        "year": 2023,
+        "month": 1,
+        "period": "2023-01",
+        "nii_crores": 4.26,
+        "opex_crores": 1.77,
+        "provisions_crores": 0.82,
+        "pat_crores": 1.25,
+        "net_margin_pct": 29.34,
+        "cost_to_income_pct": 41.55
+      },
+      {
+        "year": 2023,
+        "month": 2,
+        "period": "2023-02",
+        "nii_crores": 4.52,
+        "opex_crores": 1.94,
+        "provisions_crores": 0.79,
+        "pat_crores": 1.34,
+        "net_margin_pct": 29.65,
+        "cost_to_income_pct": 42.92
+      },
+      {
+        "year": 2023,
+        "month": 3,
+        "period": "2023-03",
+        "nii_crores": 4.44,
+        "opex_crores": 1.85,
+        "provisions_crores": 0.85,
+        "pat_crores": 1.3,
+        "net_margin_pct": 29.28,
+        "cost_to_income_pct": 41.67
+      },
+      {
+        "year": 2023,
+        "month": 4,
+        "period": "2023-04",
+        "nii_crores": 4.03,
+        "opex_crores": 1.65,
+        "provisions_crores": 0.82,
+        "pat_crores": 1.17,
+        "net_margin_pct": 29.03,
+        "cost_to_income_pct": 40.94
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "period": "2023-05",
+        "nii_crores": 3.87,
+        "opex_crores": 1.5,
+        "provisions_crores": 0.67,
+        "pat_crores": 1.27,
+        "net_margin_pct": 32.82,
+        "cost_to_income_pct": 38.76
+      },
+      {
+        "year": 2023,
+        "month": 6,
+        "period": "2023-06",
+        "nii_crores": 3.97,
+        "opex_crores": 1.74,
+        "provisions_crores": 0.81,
+        "pat_crores": 1.06,
+        "net_margin_pct": 26.7,
+        "cost_to_income_pct": 43.83
+      },
+      {
+        "year": 2023,
+        "month": 7,
+        "period": "2023-07",
+        "nii_crores": 4.32,
+        "opex_crores": 1.78,
+        "provisions_crores": 0.81,
+        "pat_crores": 1.3,
+        "net_margin_pct": 30.09,
+        "cost_to_income_pct": 41.2
+      },
+      {
+        "year": 2023,
+        "month": 8,
+        "period": "2023-08",
+        "nii_crores": 4.01,
+        "opex_crores": 1.67,
+        "provisions_crores": 0.83,
+        "pat_crores": 1.13,
+        "net_margin_pct": 28.18,
+        "cost_to_income_pct": 41.65
+      },
+      {
+        "year": 2023,
+        "month": 9,
+        "period": "2023-09",
+        "nii_crores": 4.32,
+        "opex_crores": 1.97,
+        "provisions_crores": 0.75,
+        "pat_crores": 1.2,
+        "net_margin_pct": 27.78,
+        "cost_to_income_pct": 45.6
+      },
+      {
+        "year": 2023,
+        "month": 10,
+        "period": "2023-10",
+        "nii_crores": 4.17,
+        "opex_crores": 1.84,
+        "provisions_crores": 0.74,
+        "pat_crores": 1.19,
+        "net_margin_pct": 28.54,
+        "cost_to_income_pct": 44.12
+      },
+      {
+        "year": 2023,
+        "month": 11,
+        "period": "2023-11",
+        "nii_crores": 4.46,
+        "opex_crores": 1.7,
+        "provisions_crores": 0.77,
+        "pat_crores": 1.49,
+        "net_margin_pct": 33.41,
+        "cost_to_income_pct": 38.12
+      },
+      {
+        "year": 2023,
+        "month": 12,
+        "period": "2023-12",
+        "nii_crores": 4.35,
+        "opex_crores": 1.97,
+        "provisions_crores": 0.8,
+        "pat_crores": 1.19,
+        "net_margin_pct": 27.36,
+        "cost_to_income_pct": 45.29
+      },
+      {
+        "year": 2024,
+        "month": 1,
+        "period": "2024-01",
+        "nii_crores": 5.04,
+        "opex_crores": 2.07,
+        "provisions_crores": 0.7,
+        "pat_crores": 1.7,
+        "net_margin_pct": 33.73,
+        "cost_to_income_pct": 41.07
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "period": "2024-02",
+        "nii_crores": 5.34,
+        "opex_crores": 2.09,
+        "provisions_crores": 0.69,
+        "pat_crores": 1.92,
+        "net_margin_pct": 35.96,
+        "cost_to_income_pct": 39.14
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "period": "2024-03",
+        "nii_crores": 4.76,
+        "opex_crores": 1.86,
+        "provisions_crores": 0.59,
+        "pat_crores": 1.73,
+        "net_margin_pct": 36.34,
+        "cost_to_income_pct": 39.08
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "period": "2024-04",
+        "nii_crores": 4.69,
+        "opex_crores": 2.09,
+        "provisions_crores": 0.57,
+        "pat_crores": 1.52,
+        "net_margin_pct": 32.41,
+        "cost_to_income_pct": 44.56
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "period": "2024-05",
+        "nii_crores": 4.88,
+        "opex_crores": 2.03,
+        "provisions_crores": 0.7,
+        "pat_crores": 1.61,
+        "net_margin_pct": 32.99,
+        "cost_to_income_pct": 41.6
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "period": "2024-06",
+        "nii_crores": 4.78,
+        "opex_crores": 2.03,
+        "provisions_crores": 0.62,
+        "pat_crores": 1.6,
+        "net_margin_pct": 33.47,
+        "cost_to_income_pct": 42.47
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "period": "2024-07",
+        "nii_crores": 4.89,
+        "opex_crores": 1.96,
+        "provisions_crores": 0.63,
+        "pat_crores": 1.73,
+        "net_margin_pct": 35.38,
+        "cost_to_income_pct": 40.08
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "period": "2024-08",
+        "nii_crores": 4.89,
+        "opex_crores": 1.95,
+        "provisions_crores": 0.62,
+        "pat_crores": 1.74,
+        "net_margin_pct": 35.58,
+        "cost_to_income_pct": 39.88
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "period": "2024-09",
+        "nii_crores": 5.24,
+        "opex_crores": 2.34,
+        "provisions_crores": 0.65,
+        "pat_crores": 1.69,
+        "net_margin_pct": 32.25,
+        "cost_to_income_pct": 44.66
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "period": "2024-10",
+        "nii_crores": 5.09,
+        "opex_crores": 2.01,
+        "provisions_crores": 0.66,
+        "pat_crores": 1.82,
+        "net_margin_pct": 35.76,
+        "cost_to_income_pct": 39.49
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "period": "2024-11",
+        "nii_crores": 4.97,
+        "opex_crores": 2.02,
+        "provisions_crores": 0.6,
+        "pat_crores": 1.76,
+        "net_margin_pct": 35.41,
+        "cost_to_income_pct": 40.64
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "period": "2024-12",
+        "nii_crores": 4.79,
+        "opex_crores": 2.06,
+        "provisions_crores": 0.67,
+        "pat_crores": 1.54,
+        "net_margin_pct": 32.15,
+        "cost_to_income_pct": 43.01
+      }
+    ],
+    "par": [
+      {
+        "year": 2022,
+        "month": 1,
+        "period": "2022-01",
+        "total_aum_crores": 451.36,
+        "par_30_pct": 28.25,
+        "par_60_pct": 18.49,
+        "par_90_pct": 9.62,
+        "dpd_0_cr": 323.84,
+        "dpd_30_cr": 44.05,
+        "dpd_60_cr": 40.02,
+        "dpd_90_cr": 17.89,
+        "dpd_180_cr": 15.0,
+        "dpd_360_cr": 10.55
+      },
+      {
+        "year": 2022,
+        "month": 2,
+        "period": "2022-02",
+        "total_aum_crores": 453.44,
+        "par_30_pct": 25.82,
+        "par_60_pct": 16.09,
+        "par_90_pct": 8.5,
+        "dpd_0_cr": 336.36,
+        "dpd_30_cr": 44.11,
+        "dpd_60_cr": 34.42,
+        "dpd_90_cr": 10.94,
+        "dpd_180_cr": 20.76,
+        "dpd_360_cr": 6.85
+      },
+      {
+        "year": 2022,
+        "month": 3,
+        "period": "2022-03",
+        "total_aum_crores": 483.99,
+        "par_30_pct": 25.37,
+        "par_60_pct": 17.65,
+        "par_90_pct": 12.07,
+        "dpd_0_cr": 361.18,
+        "dpd_30_cr": 37.4,
+        "dpd_60_cr": 27.0,
+        "dpd_90_cr": 26.06,
+        "dpd_180_cr": 30.05,
+        "dpd_360_cr": 2.31
+      },
+      {
+        "year": 2022,
+        "month": 4,
+        "period": "2022-04",
+        "total_aum_crores": 453.88,
+        "par_30_pct": 26.87,
+        "par_60_pct": 17.93,
+        "par_90_pct": 14.24,
+        "dpd_0_cr": 331.91,
+        "dpd_30_cr": 40.59,
+        "dpd_60_cr": 16.72,
+        "dpd_90_cr": 24.03,
+        "dpd_180_cr": 33.85,
+        "dpd_360_cr": 6.77
+      },
+      {
+        "year": 2022,
+        "month": 5,
+        "period": "2022-05",
+        "total_aum_crores": 453.05,
+        "par_30_pct": 31.07,
+        "par_60_pct": 18.22,
+        "par_90_pct": 11.17,
+        "dpd_0_cr": 312.27,
+        "dpd_30_cr": 58.24,
+        "dpd_60_cr": 31.94,
+        "dpd_90_cr": 20.88,
+        "dpd_180_cr": 19.7,
+        "dpd_360_cr": 10.03
+      },
+      {
+        "year": 2022,
+        "month": 6,
+        "period": "2022-06",
+        "total_aum_crores": 421.82,
+        "par_30_pct": 20.46,
+        "par_60_pct": 11.1,
+        "par_90_pct": 6.09,
+        "dpd_0_cr": 335.52,
+        "dpd_30_cr": 39.45,
+        "dpd_60_cr": 21.15,
+        "dpd_90_cr": 14.46,
+        "dpd_180_cr": 11.23,
+        "dpd_360_cr": 0.0
+      },
+      {
+        "year": 2022,
+        "month": 7,
+        "period": "2022-07",
+        "total_aum_crores": 431.61,
+        "par_30_pct": 32.67,
+        "par_60_pct": 25.0,
+        "par_90_pct": 15.95,
+        "dpd_0_cr": 290.6,
+        "dpd_30_cr": 33.09,
+        "dpd_60_cr": 39.07,
+        "dpd_90_cr": 27.03,
+        "dpd_180_cr": 29.97,
+        "dpd_360_cr": 11.85
+      },
+      {
+        "year": 2022,
+        "month": 8,
+        "period": "2022-08",
+        "total_aum_crores": 370.76,
+        "par_30_pct": 29.05,
+        "par_60_pct": 21.61,
+        "par_90_pct": 15.67,
+        "dpd_0_cr": 263.07,
+        "dpd_30_cr": 27.56,
+        "dpd_60_cr": 22.04,
+        "dpd_90_cr": 34.52,
+        "dpd_180_cr": 14.5,
+        "dpd_360_cr": 9.06
+      },
+      {
+        "year": 2022,
+        "month": 9,
+        "period": "2022-09",
+        "total_aum_crores": 397.59,
+        "par_30_pct": 29.25,
+        "par_60_pct": 17.58,
+        "par_90_pct": 10.95,
+        "dpd_0_cr": 281.28,
+        "dpd_30_cr": 46.39,
+        "dpd_60_cr": 26.37,
+        "dpd_90_cr": 14.87,
+        "dpd_180_cr": 18.28,
+        "dpd_360_cr": 10.39
+      },
+      {
+        "year": 2022,
+        "month": 10,
+        "period": "2022-10",
+        "total_aum_crores": 422.29,
+        "par_30_pct": 33.43,
+        "par_60_pct": 22.9,
+        "par_90_pct": 16.38,
+        "dpd_0_cr": 281.13,
+        "dpd_30_cr": 44.46,
+        "dpd_60_cr": 27.53,
+        "dpd_90_cr": 45.5,
+        "dpd_180_cr": 13.89,
+        "dpd_360_cr": 9.77
+      },
+      {
+        "year": 2022,
+        "month": 11,
+        "period": "2022-11",
+        "total_aum_crores": 434.33,
+        "par_30_pct": 29.68,
+        "par_60_pct": 17.22,
+        "par_90_pct": 7.35,
+        "dpd_0_cr": 305.41,
+        "dpd_30_cr": 54.12,
+        "dpd_60_cr": 42.86,
+        "dpd_90_cr": 18.41,
+        "dpd_180_cr": 13.53,
+        "dpd_360_cr": 0.0
+      },
+      {
+        "year": 2022,
+        "month": 12,
+        "period": "2022-12",
+        "total_aum_crores": 434.02,
+        "par_30_pct": 32.83,
+        "par_60_pct": 19.77,
+        "par_90_pct": 13.51,
+        "dpd_0_cr": 291.54,
+        "dpd_30_cr": 56.66,
+        "dpd_60_cr": 27.2,
+        "dpd_90_cr": 28.77,
+        "dpd_180_cr": 11.5,
+        "dpd_360_cr": 18.35
+      },
+      {
+        "year": 2023,
+        "month": 1,
+        "period": "2023-01",
+        "total_aum_crores": 526.24,
+        "par_30_pct": 36.87,
+        "par_60_pct": 26.33,
+        "par_90_pct": 18.74,
+        "dpd_0_cr": 332.2,
+        "dpd_30_cr": 55.49,
+        "dpd_60_cr": 39.96,
+        "dpd_90_cr": 52.51,
+        "dpd_180_cr": 28.72,
+        "dpd_360_cr": 17.36
+      },
+      {
+        "year": 2023,
+        "month": 2,
+        "period": "2023-02",
+        "total_aum_crores": 511.49,
+        "par_30_pct": 39.39,
+        "par_60_pct": 27.72,
+        "par_90_pct": 15.79,
+        "dpd_0_cr": 309.99,
+        "dpd_30_cr": 59.72,
+        "dpd_60_cr": 60.99,
+        "dpd_90_cr": 36.56,
+        "dpd_180_cr": 31.23,
+        "dpd_360_cr": 13.01
+      },
+      {
+        "year": 2023,
+        "month": 3,
+        "period": "2023-03",
+        "total_aum_crores": 524.65,
+        "par_30_pct": 42.46,
+        "par_60_pct": 30.6,
+        "par_90_pct": 20.16,
+        "dpd_0_cr": 301.86,
+        "dpd_30_cr": 62.27,
+        "dpd_60_cr": 54.77,
+        "dpd_90_cr": 49.39,
+        "dpd_180_cr": 39.72,
+        "dpd_360_cr": 16.64
+      },
+      {
+        "year": 2023,
+        "month": 4,
+        "period": "2023-04",
+        "total_aum_crores": 562.89,
+        "par_30_pct": 40.63,
+        "par_60_pct": 27.56,
+        "par_90_pct": 17.31,
+        "dpd_0_cr": 334.18,
+        "dpd_30_cr": 73.6,
+        "dpd_60_cr": 57.7,
+        "dpd_90_cr": 25.32,
+        "dpd_180_cr": 45.65,
+        "dpd_360_cr": 26.44
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "period": "2023-05",
+        "total_aum_crores": 509.48,
+        "par_30_pct": 40.26,
+        "par_60_pct": 24.97,
+        "par_90_pct": 16.34,
+        "dpd_0_cr": 304.34,
+        "dpd_30_cr": 77.91,
+        "dpd_60_cr": 43.96,
+        "dpd_90_cr": 37.01,
+        "dpd_180_cr": 34.03,
+        "dpd_360_cr": 12.23
+      },
+      {
+        "year": 2023,
+        "month": 6,
+        "period": "2023-06",
+        "total_aum_crores": 478.25,
+        "par_30_pct": 47.64,
+        "par_60_pct": 35.21,
+        "par_90_pct": 21.45,
+        "dpd_0_cr": 250.41,
+        "dpd_30_cr": 59.44,
+        "dpd_60_cr": 65.83,
+        "dpd_90_cr": 46.16,
+        "dpd_180_cr": 32.87,
+        "dpd_360_cr": 23.54
+      },
+      {
+        "year": 2023,
+        "month": 7,
+        "period": "2023-07",
+        "total_aum_crores": 489.03,
+        "par_30_pct": 35.07,
+        "par_60_pct": 24.54,
+        "par_90_pct": 14.05,
+        "dpd_0_cr": 317.52,
+        "dpd_30_cr": 51.5,
+        "dpd_60_cr": 51.31,
+        "dpd_90_cr": 40.18,
+        "dpd_180_cr": 21.6,
+        "dpd_360_cr": 6.92
+      },
+      {
+        "year": 2023,
+        "month": 8,
+        "period": "2023-08",
+        "total_aum_crores": 422.74,
+        "par_30_pct": 43.74,
+        "par_60_pct": 27.85,
+        "par_90_pct": 18.92,
+        "dpd_0_cr": 237.82,
+        "dpd_30_cr": 67.18,
+        "dpd_60_cr": 37.74,
+        "dpd_90_cr": 36.74,
+        "dpd_180_cr": 28.01,
+        "dpd_360_cr": 15.24
+      },
+      {
+        "year": 2023,
+        "month": 9,
+        "period": "2023-09",
+        "total_aum_crores": 465.1,
+        "par_30_pct": 39.56,
+        "par_60_pct": 23.44,
+        "par_90_pct": 16.23,
+        "dpd_0_cr": 281.1,
+        "dpd_30_cr": 74.96,
+        "dpd_60_cr": 33.55,
+        "dpd_90_cr": 31.09,
+        "dpd_180_cr": 30.22,
+        "dpd_360_cr": 14.17
+      },
+      {
+        "year": 2023,
+        "month": 10,
+        "period": "2023-10",
+        "total_aum_crores": 457.67,
+        "par_30_pct": 35.58,
+        "par_60_pct": 24.0,
+        "par_90_pct": 15.71,
+        "dpd_0_cr": 294.83,
+        "dpd_30_cr": 52.98,
+        "dpd_60_cr": 37.94,
+        "dpd_90_cr": 44.04,
+        "dpd_180_cr": 16.43,
+        "dpd_360_cr": 11.45
+      },
+      {
+        "year": 2023,
+        "month": 11,
+        "period": "2023-11",
+        "total_aum_crores": 484.53,
+        "par_30_pct": 35.38,
+        "par_60_pct": 24.96,
+        "par_90_pct": 16.82,
+        "dpd_0_cr": 313.08,
+        "dpd_30_cr": 50.53,
+        "dpd_60_cr": 39.43,
+        "dpd_90_cr": 32.69,
+        "dpd_180_cr": 33.29,
+        "dpd_360_cr": 15.51
+      },
+      {
+        "year": 2023,
+        "month": 12,
+        "period": "2023-12",
+        "total_aum_crores": 536.37,
+        "par_30_pct": 37.51,
+        "par_60_pct": 27.04,
+        "par_90_pct": 19.34,
+        "dpd_0_cr": 335.15,
+        "dpd_30_cr": 56.16,
+        "dpd_60_cr": 41.31,
+        "dpd_90_cr": 54.28,
+        "dpd_180_cr": 27.54,
+        "dpd_360_cr": 21.93
+      },
+      {
+        "year": 2024,
+        "month": 1,
+        "period": "2024-01",
+        "total_aum_crores": 618.01,
+        "par_30_pct": 27.85,
+        "par_60_pct": 18.19,
+        "par_90_pct": 11.51,
+        "dpd_0_cr": 445.87,
+        "dpd_30_cr": 59.71,
+        "dpd_60_cr": 41.29,
+        "dpd_90_cr": 36.2,
+        "dpd_180_cr": 26.59,
+        "dpd_360_cr": 8.35
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "period": "2024-02",
+        "total_aum_crores": 642.83,
+        "par_30_pct": 32.07,
+        "par_60_pct": 22.19,
+        "par_90_pct": 15.54,
+        "dpd_0_cr": 436.67,
+        "dpd_30_cr": 63.5,
+        "dpd_60_cr": 42.75,
+        "dpd_90_cr": 35.63,
+        "dpd_180_cr": 36.37,
+        "dpd_360_cr": 27.92
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "period": "2024-03",
+        "total_aum_crores": 641.91,
+        "par_30_pct": 28.54,
+        "par_60_pct": 19.09,
+        "par_90_pct": 12.3,
+        "dpd_0_cr": 458.7,
+        "dpd_30_cr": 60.69,
+        "dpd_60_cr": 43.55,
+        "dpd_90_cr": 38.6,
+        "dpd_180_cr": 33.89,
+        "dpd_360_cr": 6.47
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "period": "2024-04",
+        "total_aum_crores": 668.61,
+        "par_30_pct": 24.07,
+        "par_60_pct": 15.16,
+        "par_90_pct": 10.08,
+        "dpd_0_cr": 507.69,
+        "dpd_30_cr": 59.53,
+        "dpd_60_cr": 34.0,
+        "dpd_90_cr": 42.2,
+        "dpd_180_cr": 19.15,
+        "dpd_360_cr": 6.05
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "period": "2024-05",
+        "total_aum_crores": 626.6,
+        "par_30_pct": 30.27,
+        "par_60_pct": 19.36,
+        "par_90_pct": 11.65,
+        "dpd_0_cr": 436.96,
+        "dpd_30_cr": 68.31,
+        "dpd_60_cr": 48.32,
+        "dpd_90_cr": 32.83,
+        "dpd_180_cr": 33.14,
+        "dpd_360_cr": 7.04
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "period": "2024-06",
+        "total_aum_crores": 581.86,
+        "par_30_pct": 30.49,
+        "par_60_pct": 20.5,
+        "par_90_pct": 13.58,
+        "dpd_0_cr": 404.46,
+        "dpd_30_cr": 58.09,
+        "dpd_60_cr": 40.31,
+        "dpd_90_cr": 53.78,
+        "dpd_180_cr": 21.39,
+        "dpd_360_cr": 3.82
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "period": "2024-07",
+        "total_aum_crores": 595.29,
+        "par_30_pct": 28.63,
+        "par_60_pct": 16.0,
+        "par_90_pct": 11.03,
+        "dpd_0_cr": 424.86,
+        "dpd_30_cr": 75.18,
+        "dpd_60_cr": 29.6,
+        "dpd_90_cr": 40.48,
+        "dpd_180_cr": 23.64,
+        "dpd_360_cr": 1.54
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "period": "2024-08",
+        "total_aum_crores": 546.85,
+        "par_30_pct": 26.12,
+        "par_60_pct": 15.19,
+        "par_90_pct": 8.66,
+        "dpd_0_cr": 404.0,
+        "dpd_30_cr": 59.77,
+        "dpd_60_cr": 35.76,
+        "dpd_90_cr": 19.82,
+        "dpd_180_cr": 17.45,
+        "dpd_360_cr": 10.06
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "period": "2024-09",
+        "total_aum_crores": 543.54,
+        "par_30_pct": 31.87,
+        "par_60_pct": 19.84,
+        "par_90_pct": 13.03,
+        "dpd_0_cr": 370.34,
+        "dpd_30_cr": 65.36,
+        "dpd_60_cr": 37.0,
+        "dpd_90_cr": 34.14,
+        "dpd_180_cr": 24.06,
+        "dpd_360_cr": 12.64
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "period": "2024-10",
+        "total_aum_crores": 586.34,
+        "par_30_pct": 26.28,
+        "par_60_pct": 14.28,
+        "par_90_pct": 10.93,
+        "dpd_0_cr": 432.26,
+        "dpd_30_cr": 70.33,
+        "dpd_60_cr": 19.66,
+        "dpd_90_cr": 37.51,
+        "dpd_180_cr": 23.31,
+        "dpd_360_cr": 3.27
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "period": "2024-11",
+        "total_aum_crores": 567.66,
+        "par_30_pct": 35.01,
+        "par_60_pct": 18.31,
+        "par_90_pct": 12.75,
+        "dpd_0_cr": 368.94,
+        "dpd_30_cr": 94.75,
+        "dpd_60_cr": 31.59,
+        "dpd_90_cr": 46.49,
+        "dpd_180_cr": 15.42,
+        "dpd_360_cr": 10.46
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "period": "2024-12",
+        "total_aum_crores": 645.69,
+        "par_30_pct": 35.93,
+        "par_60_pct": 22.44,
+        "par_90_pct": 15.56,
+        "dpd_0_cr": 413.69,
+        "dpd_30_cr": 87.12,
+        "dpd_60_cr": 44.41,
+        "dpd_90_cr": 64.28,
+        "dpd_180_cr": 21.33,
+        "dpd_360_cr": 14.87
+      }
+    ],
+    "disbursement_growth": [
+      {
+        "year": 2022,
+        "month": 1,
+        "period": "2022-01",
+        "disbursement_crores": 740.73,
+        "prev_month_dis": NaN,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": NaN,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 2,
+        "period": "2022-02",
+        "disbursement_crores": 807.41,
+        "prev_month_dis": 740.73,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": 9.0,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 3,
+        "period": "2022-03",
+        "disbursement_crores": 789.63,
+        "prev_month_dis": 807.41,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": -2.2,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 4,
+        "period": "2022-04",
+        "disbursement_crores": 781.78,
+        "prev_month_dis": 789.63,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": -0.99,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 5,
+        "period": "2022-05",
+        "disbursement_crores": 755.77,
+        "prev_month_dis": 781.78,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": -3.33,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 6,
+        "period": "2022-06",
+        "disbursement_crores": 724.72,
+        "prev_month_dis": 755.77,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": -4.11,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 7,
+        "period": "2022-07",
+        "disbursement_crores": 700.73,
+        "prev_month_dis": 724.72,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": -3.31,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 8,
+        "period": "2022-08",
+        "disbursement_crores": 658.89,
+        "prev_month_dis": 700.73,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": -5.97,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 9,
+        "period": "2022-09",
+        "disbursement_crores": 674.43,
+        "prev_month_dis": 658.89,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": 2.36,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 10,
+        "period": "2022-10",
+        "disbursement_crores": 679.06,
+        "prev_month_dis": 674.43,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": 0.69,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 11,
+        "period": "2022-11",
+        "disbursement_crores": 715.26,
+        "prev_month_dis": 679.06,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": 5.33,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2022,
+        "month": 12,
+        "period": "2022-12",
+        "disbursement_crores": 721.9,
+        "prev_month_dis": 715.26,
+        "prev_year_dis": NaN,
+        "mom_growth_pct": 0.93,
+        "yoy_growth_pct": NaN
+      },
+      {
+        "year": 2023,
+        "month": 1,
+        "period": "2023-01",
+        "disbursement_crores": 891.62,
+        "prev_month_dis": 721.9,
+        "prev_year_dis": 740.73,
+        "mom_growth_pct": 23.51,
+        "yoy_growth_pct": 20.37
+      },
+      {
+        "year": 2023,
+        "month": 2,
+        "period": "2023-02",
+        "disbursement_crores": 897.74,
+        "prev_month_dis": 891.62,
+        "prev_year_dis": 807.41,
+        "mom_growth_pct": 0.69,
+        "yoy_growth_pct": 11.19
+      },
+      {
+        "year": 2023,
+        "month": 3,
+        "period": "2023-03",
+        "disbursement_crores": 939.27,
+        "prev_month_dis": 897.74,
+        "prev_year_dis": 789.63,
+        "mom_growth_pct": 4.63,
+        "yoy_growth_pct": 18.95
+      },
+      {
+        "year": 2023,
+        "month": 4,
+        "period": "2023-04",
+        "disbursement_crores": 927.5,
+        "prev_month_dis": 939.27,
+        "prev_year_dis": 781.78,
+        "mom_growth_pct": -1.25,
+        "yoy_growth_pct": 18.64
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "period": "2023-05",
+        "disbursement_crores": 877.15,
+        "prev_month_dis": 927.5,
+        "prev_year_dis": 755.77,
+        "mom_growth_pct": -5.43,
+        "yoy_growth_pct": 16.06
+      },
+      {
+        "year": 2023,
+        "month": 6,
+        "period": "2023-06",
+        "disbursement_crores": 858.52,
+        "prev_month_dis": 877.15,
+        "prev_year_dis": 724.72,
+        "mom_growth_pct": -2.12,
+        "yoy_growth_pct": 18.46
+      },
+      {
+        "year": 2023,
+        "month": 7,
+        "period": "2023-07",
+        "disbursement_crores": 841.82,
+        "prev_month_dis": 858.52,
+        "prev_year_dis": 700.73,
+        "mom_growth_pct": -1.95,
+        "yoy_growth_pct": 20.13
+      },
+      {
+        "year": 2023,
+        "month": 8,
+        "period": "2023-08",
+        "disbursement_crores": 791.71,
+        "prev_month_dis": 841.82,
+        "prev_year_dis": 658.89,
+        "mom_growth_pct": -5.95,
+        "yoy_growth_pct": 20.16
+      },
+      {
+        "year": 2023,
+        "month": 9,
+        "period": "2023-09",
+        "disbursement_crores": 796.99,
+        "prev_month_dis": 791.71,
+        "prev_year_dis": 674.43,
+        "mom_growth_pct": 0.67,
+        "yoy_growth_pct": 18.17
+      },
+      {
+        "year": 2023,
+        "month": 10,
+        "period": "2023-10",
+        "disbursement_crores": 813.98,
+        "prev_month_dis": 796.99,
+        "prev_year_dis": 679.06,
+        "mom_growth_pct": 2.13,
+        "yoy_growth_pct": 19.87
+      },
+      {
+        "year": 2023,
+        "month": 11,
+        "period": "2023-11",
+        "disbursement_crores": 827.56,
+        "prev_month_dis": 813.98,
+        "prev_year_dis": 715.26,
+        "mom_growth_pct": 1.67,
+        "yoy_growth_pct": 15.7
+      },
+      {
+        "year": 2023,
+        "month": 12,
+        "period": "2023-12",
+        "disbursement_crores": 872.03,
+        "prev_month_dis": 827.56,
+        "prev_year_dis": 721.9,
+        "mom_growth_pct": 5.37,
+        "yoy_growth_pct": 20.8
+      },
+      {
+        "year": 2024,
+        "month": 1,
+        "period": "2024-01",
+        "disbursement_crores": 1051.32,
+        "prev_month_dis": 872.03,
+        "prev_year_dis": 891.62,
+        "mom_growth_pct": 20.56,
+        "yoy_growth_pct": 17.91
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "period": "2024-02",
+        "disbursement_crores": 1065.7,
+        "prev_month_dis": 1051.32,
+        "prev_year_dis": 897.74,
+        "mom_growth_pct": 1.37,
+        "yoy_growth_pct": 18.71
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "period": "2024-03",
+        "disbursement_crores": 1080.67,
+        "prev_month_dis": 1065.7,
+        "prev_year_dis": 939.27,
+        "mom_growth_pct": 1.4,
+        "yoy_growth_pct": 15.05
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "period": "2024-04",
+        "disbursement_crores": 1103.39,
+        "prev_month_dis": 1080.67,
+        "prev_year_dis": 927.5,
+        "mom_growth_pct": 2.1,
+        "yoy_growth_pct": 18.96
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "period": "2024-05",
+        "disbursement_crores": 1040.34,
+        "prev_month_dis": 1103.39,
+        "prev_year_dis": 877.15,
+        "mom_growth_pct": -5.71,
+        "yoy_growth_pct": 18.6
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "period": "2024-06",
+        "disbursement_crores": 989.08,
+        "prev_month_dis": 1040.34,
+        "prev_year_dis": 858.52,
+        "mom_growth_pct": -4.93,
+        "yoy_growth_pct": 15.21
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "period": "2024-07",
+        "disbursement_crores": 983.75,
+        "prev_month_dis": 989.08,
+        "prev_year_dis": 841.82,
+        "mom_growth_pct": -0.54,
+        "yoy_growth_pct": 16.86
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "period": "2024-08",
+        "disbursement_crores": 926.67,
+        "prev_month_dis": 983.75,
+        "prev_year_dis": 791.71,
+        "mom_growth_pct": -5.8,
+        "yoy_growth_pct": 17.05
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "period": "2024-09",
+        "disbursement_crores": 901.59,
+        "prev_month_dis": 926.67,
+        "prev_year_dis": 796.99,
+        "mom_growth_pct": -2.71,
+        "yoy_growth_pct": 13.12
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "period": "2024-10",
+        "disbursement_crores": 928.22,
+        "prev_month_dis": 901.59,
+        "prev_year_dis": 813.98,
+        "mom_growth_pct": 2.95,
+        "yoy_growth_pct": 14.03
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "period": "2024-11",
+        "disbursement_crores": 981.34,
+        "prev_month_dis": 928.22,
+        "prev_year_dis": 827.56,
+        "mom_growth_pct": 5.72,
+        "yoy_growth_pct": 18.58
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "period": "2024-12",
+        "disbursement_crores": 1029.74,
+        "prev_month_dis": 981.34,
+        "prev_year_dis": 872.03,
+        "mom_growth_pct": 4.93,
+        "yoy_growth_pct": 18.09
+      }
+    ],
+    "pcr": [
+      {
+        "year": 2022,
+        "month": 1,
+        "period": "2022-01",
+        "gnpa_pct": 3.14,
+        "nnpa_pct": 1.66,
+        "pcr_from_metrics": 62.44,
+        "monthly_provisions_cr": 0.44,
+        "cumulative_provisions_cr": 0.44
+      },
+      {
+        "year": 2022,
+        "month": 2,
+        "period": "2022-02",
+        "gnpa_pct": 3.27,
+        "nnpa_pct": 1.61,
+        "pcr_from_metrics": 63.06,
+        "monthly_provisions_cr": 0.42,
+        "cumulative_provisions_cr": 0.86
+      },
+      {
+        "year": 2022,
+        "month": 3,
+        "period": "2022-03",
+        "gnpa_pct": 3.47,
+        "nnpa_pct": 1.77,
+        "pcr_from_metrics": 64.19,
+        "monthly_provisions_cr": 0.42,
+        "cumulative_provisions_cr": 1.28
+      },
+      {
+        "year": 2022,
+        "month": 4,
+        "period": "2022-04",
+        "gnpa_pct": 3.45,
+        "nnpa_pct": 1.71,
+        "pcr_from_metrics": 67.36,
+        "monthly_provisions_cr": 0.43,
+        "cumulative_provisions_cr": 1.71
+      },
+      {
+        "year": 2022,
+        "month": 5,
+        "period": "2022-05",
+        "gnpa_pct": 3.64,
+        "nnpa_pct": 1.8,
+        "pcr_from_metrics": 67.96,
+        "monthly_provisions_cr": 0.46,
+        "cumulative_provisions_cr": 2.17
+      },
+      {
+        "year": 2022,
+        "month": 6,
+        "period": "2022-06",
+        "gnpa_pct": 3.94,
+        "nnpa_pct": 2.16,
+        "pcr_from_metrics": 69.48,
+        "monthly_provisions_cr": 0.4,
+        "cumulative_provisions_cr": 2.57
+      },
+      {
+        "year": 2022,
+        "month": 7,
+        "period": "2022-07",
+        "gnpa_pct": 3.88,
+        "nnpa_pct": 2.1,
+        "pcr_from_metrics": 58.91,
+        "monthly_provisions_cr": 0.42,
+        "cumulative_provisions_cr": 2.99
+      },
+      {
+        "year": 2022,
+        "month": 8,
+        "period": "2022-08",
+        "gnpa_pct": 4.1,
+        "nnpa_pct": 2.22,
+        "pcr_from_metrics": 64.53,
+        "monthly_provisions_cr": 0.49,
+        "cumulative_provisions_cr": 3.48
+      },
+      {
+        "year": 2022,
+        "month": 9,
+        "period": "2022-09",
+        "gnpa_pct": 4.14,
+        "nnpa_pct": 2.18,
+        "pcr_from_metrics": 58.3,
+        "monthly_provisions_cr": 0.47,
+        "cumulative_provisions_cr": 3.95
+      },
+      {
+        "year": 2022,
+        "month": 10,
+        "period": "2022-10",
+        "gnpa_pct": 4.36,
+        "nnpa_pct": 2.3,
+        "pcr_from_metrics": 67.67,
+        "monthly_provisions_cr": 0.42,
+        "cumulative_provisions_cr": 4.37
+      },
+      {
+        "year": 2022,
+        "month": 11,
+        "period": "2022-11",
+        "gnpa_pct": 4.41,
+        "nnpa_pct": 2.36,
+        "pcr_from_metrics": 58.74,
+        "monthly_provisions_cr": 0.4,
+        "cumulative_provisions_cr": 4.77
+      },
+      {
+        "year": 2022,
+        "month": 12,
+        "period": "2022-12",
+        "gnpa_pct": 4.52,
+        "nnpa_pct": 2.44,
+        "pcr_from_metrics": 62.34,
+        "monthly_provisions_cr": 0.44,
+        "cumulative_provisions_cr": 5.21
+      },
+      {
+        "year": 2023,
+        "month": 1,
+        "period": "2023-01",
+        "gnpa_pct": 4.83,
+        "nnpa_pct": 2.4,
+        "pcr_from_metrics": 68.21,
+        "monthly_provisions_cr": 0.82,
+        "cumulative_provisions_cr": 6.03
+      },
+      {
+        "year": 2023,
+        "month": 2,
+        "period": "2023-02",
+        "gnpa_pct": 4.9,
+        "nnpa_pct": 2.38,
+        "pcr_from_metrics": 58.48,
+        "monthly_provisions_cr": 0.79,
+        "cumulative_provisions_cr": 6.82
+      },
+      {
+        "year": 2023,
+        "month": 3,
+        "period": "2023-03",
+        "gnpa_pct": 5.14,
+        "nnpa_pct": 2.77,
+        "pcr_from_metrics": 69.14,
+        "monthly_provisions_cr": 0.85,
+        "cumulative_provisions_cr": 7.67
+      },
+      {
+        "year": 2023,
+        "month": 4,
+        "period": "2023-04",
+        "gnpa_pct": 5.31,
+        "nnpa_pct": 2.64,
+        "pcr_from_metrics": 63.63,
+        "monthly_provisions_cr": 0.82,
+        "cumulative_provisions_cr": 8.49
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "period": "2023-05",
+        "gnpa_pct": 5.48,
+        "nnpa_pct": 3.0,
+        "pcr_from_metrics": 60.87,
+        "monthly_provisions_cr": 0.67,
+        "cumulative_provisions_cr": 9.16
+      },
+      {
+        "year": 2023,
+        "month": 6,
+        "period": "2023-06",
+        "gnpa_pct": 5.66,
+        "nnpa_pct": 2.8,
+        "pcr_from_metrics": 64.69,
+        "monthly_provisions_cr": 0.81,
+        "cumulative_provisions_cr": 9.97
+      },
+      {
+        "year": 2023,
+        "month": 7,
+        "period": "2023-07",
+        "gnpa_pct": 5.73,
+        "nnpa_pct": 2.81,
+        "pcr_from_metrics": 63.41,
+        "monthly_provisions_cr": 0.81,
+        "cumulative_provisions_cr": 10.78
+      },
+      {
+        "year": 2023,
+        "month": 8,
+        "period": "2023-08",
+        "gnpa_pct": 6.02,
+        "nnpa_pct": 3.09,
+        "pcr_from_metrics": 68.74,
+        "monthly_provisions_cr": 0.83,
+        "cumulative_provisions_cr": 11.61
+      },
+      {
+        "year": 2023,
+        "month": 9,
+        "period": "2023-09",
+        "gnpa_pct": 5.98,
+        "nnpa_pct": 2.9,
+        "pcr_from_metrics": 58.69,
+        "monthly_provisions_cr": 0.75,
+        "cumulative_provisions_cr": 12.36
+      },
+      {
+        "year": 2023,
+        "month": 10,
+        "period": "2023-10",
+        "gnpa_pct": 6.11,
+        "nnpa_pct": 3.23,
+        "pcr_from_metrics": 64.67,
+        "monthly_provisions_cr": 0.74,
+        "cumulative_provisions_cr": 13.1
+      },
+      {
+        "year": 2023,
+        "month": 11,
+        "period": "2023-11",
+        "gnpa_pct": 6.08,
+        "nnpa_pct": 2.98,
+        "pcr_from_metrics": 60.46,
+        "monthly_provisions_cr": 0.77,
+        "cumulative_provisions_cr": 13.87
+      },
+      {
+        "year": 2023,
+        "month": 12,
+        "period": "2023-12",
+        "gnpa_pct": 6.06,
+        "nnpa_pct": 3.01,
+        "pcr_from_metrics": 65.46,
+        "monthly_provisions_cr": 0.8,
+        "cumulative_provisions_cr": 14.67
+      },
+      {
+        "year": 2024,
+        "month": 1,
+        "period": "2024-01",
+        "gnpa_pct": 5.88,
+        "nnpa_pct": 2.89,
+        "pcr_from_metrics": 68.44,
+        "monthly_provisions_cr": 0.7,
+        "cumulative_provisions_cr": 15.37
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "period": "2024-02",
+        "gnpa_pct": 5.6,
+        "nnpa_pct": 2.96,
+        "pcr_from_metrics": 67.85,
+        "monthly_provisions_cr": 0.69,
+        "cumulative_provisions_cr": 16.06
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "period": "2024-03",
+        "gnpa_pct": 5.62,
+        "nnpa_pct": 2.81,
+        "pcr_from_metrics": 61.14,
+        "monthly_provisions_cr": 0.59,
+        "cumulative_provisions_cr": 16.65
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "period": "2024-04",
+        "gnpa_pct": 5.5,
+        "nnpa_pct": 2.98,
+        "pcr_from_metrics": 60.55,
+        "monthly_provisions_cr": 0.57,
+        "cumulative_provisions_cr": 17.22
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "period": "2024-05",
+        "gnpa_pct": 5.24,
+        "nnpa_pct": 2.78,
+        "pcr_from_metrics": 66.75,
+        "monthly_provisions_cr": 0.7,
+        "cumulative_provisions_cr": 17.92
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "period": "2024-06",
+        "gnpa_pct": 5.24,
+        "nnpa_pct": 2.77,
+        "pcr_from_metrics": 62.16,
+        "monthly_provisions_cr": 0.62,
+        "cumulative_provisions_cr": 18.54
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "period": "2024-07",
+        "gnpa_pct": 5.09,
+        "nnpa_pct": 2.55,
+        "pcr_from_metrics": 65.61,
+        "monthly_provisions_cr": 0.63,
+        "cumulative_provisions_cr": 19.17
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "period": "2024-08",
+        "gnpa_pct": 4.87,
+        "nnpa_pct": 2.6,
+        "pcr_from_metrics": 69.39,
+        "monthly_provisions_cr": 0.62,
+        "cumulative_provisions_cr": 19.79
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "period": "2024-09",
+        "gnpa_pct": 4.64,
+        "nnpa_pct": 2.34,
+        "pcr_from_metrics": 63.94,
+        "monthly_provisions_cr": 0.65,
+        "cumulative_provisions_cr": 20.44
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "period": "2024-10",
+        "gnpa_pct": 4.76,
+        "nnpa_pct": 2.45,
+        "pcr_from_metrics": 63.96,
+        "monthly_provisions_cr": 0.66,
+        "cumulative_provisions_cr": 21.1
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "period": "2024-11",
+        "gnpa_pct": 4.5,
+        "nnpa_pct": 2.36,
+        "pcr_from_metrics": 59.51,
+        "monthly_provisions_cr": 0.6,
+        "cumulative_provisions_cr": 21.7
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "period": "2024-12",
+        "gnpa_pct": 4.41,
+        "nnpa_pct": 2.35,
+        "pcr_from_metrics": 69.05,
+        "monthly_provisions_cr": 0.67,
+        "cumulative_provisions_cr": 22.37
+      }
+    ],
+    "top5_geo_npa": [
+      {
+        "geography": "Metro",
+        "npa_outstanding_crores": 985.67,
+        "npa_loan_count": 459,
+        "npa_contribution_pct": 35.06,
+        "npa_rank": 1
+      },
+      {
+        "geography": "Tier1",
+        "npa_outstanding_crores": 836.03,
+        "npa_loan_count": 384,
+        "npa_contribution_pct": 29.74,
+        "npa_rank": 2
+      },
+      {
+        "geography": "Tier2",
+        "npa_outstanding_crores": 667.78,
+        "npa_loan_count": 314,
+        "npa_contribution_pct": 23.76,
+        "npa_rank": 3
+      },
+      {
+        "geography": "Rural",
+        "npa_outstanding_crores": 321.61,
+        "npa_loan_count": 152,
+        "npa_contribution_pct": 11.44,
+        "npa_rank": 4
+      }
+    ]
+  }
+}

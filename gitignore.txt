@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.env
+venv/
+.venv/
+env/
+
+# Data files (don't push real data)
+*.csv
+*.xlsx
+*.xls
+!sample_data.csv    # allow sample files if needed
+
+# Model files (large — use MLflow instead)
+*.pkl
+*.joblib
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
+config.yaml
+credentials.json

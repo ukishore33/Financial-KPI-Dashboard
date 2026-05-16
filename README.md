@@ -235,7 +235,7 @@ open financial_kpi_dashboard.html
 python -m http.server 8080
 # Then visit: http://localhost:8080/financial_kpi_dashboard.html
 ```
-
+##### [Live Demo](https://ukishore33.github.io/Financial-KPI-Dashboard/financial_kpi_dashboard.html)
 > **Note**: The dashboard includes a fallback synthetic data generator in JavaScript — it will render fully even without running `kpi_engine.py`, making it easy to demo standalone.
 
 ---
